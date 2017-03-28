@@ -1,0 +1,101 @@
+{
+  "tests" : [ {
+    "name" : "com.galenframework.junit.GalenJUnitTestBase#>initReport",
+    "startedAt" : 1460648532415,
+    "endedAt" : 1460648532415,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 1,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 1
+    },
+    "testId" : "1-com.galenframework.junit.galenjunittestbase-initreport",
+    "failed" : false,
+    "duration" : 0
+  }, {
+    "name" : "com.galenframework.junit.GalenJUnitTestBase#>initReport",
+    "startedAt" : 1460648539644,
+    "endedAt" : 1460648539644,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 1,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 1
+    },
+    "testId" : "2-com.galenframework.junit.galenjunittestbase-initreport",
+    "failed" : false,
+    "duration" : 0
+  }, {
+    "name" : "com.galenframework.junit.GalenJUnitTestBase#>initReport",
+    "startedAt" : 1460648547551,
+    "endedAt" : 1460648547551,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 1,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 1
+    },
+    "testId" : "3-com.galenframework.junit.galenjunittestbase-initreport",
+    "failed" : false,
+    "duration" : 0
+  }, {
+    "name" : "com.galenframework.junit.GalenJUnitTestBase#>initReport",
+    "startedAt" : 1460648554859,
+    "endedAt" : 1460648554859,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 1,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 1
+    },
+    "testId" : "4-com.galenframework.junit.galenjunittestbase-initreport",
+    "failed" : false,
+    "duration" : 0
+  }, {
+    "name" : "com.galenframework.junit.GalenJUnitTestBase#>initReport",
+    "startedAt" : 1460648605207,
+    "endedAt" : 1460648605207,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 1,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 1
+    },
+    "testId" : "5-com.galenframework.junit.galenjunittestbase-initreport",
+    "failed" : false,
+    "duration" : 0
+  }, {
+    "name" : "com.galenframework.junit.GalenJUnitTestBase#>initReport",
+    "startedAt" : 1460648613954,
+    "endedAt" : 1460648613954,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 1,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 1
+    },
+    "testId" : "6-com.galenframework.junit.galenjunittestbase-initreport",
+    "failed" : false,
+    "duration" : 0
+  }, {
+    "name" : "com.galenframework.junit.GalenJUnitTestBase#>initReport",
+    "startedAt" : 1460648620658,
+    "endedAt" : 1460648620658,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 1,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 1
+    },
+    "testId" : "7-com.galenframework.junit.galenjunittestbase-initreport",
+    "failed" : false,
+    "duration" : 0
+  } ]
+}

@@ -1,0 +1,7 @@
+
+test-zodiak
+monkeyCheckListposDX,la Listpos e' x23
+monkeyCheckListposDX,la Listpos e' Frame1,x23
+monkeyCheckListposDX,la Listpos e' Frame1,Bottom1,x23
+monkeyCheckListposDX,la Listpos e' x23
+monkeyCheckListposDX,la Listpos e' x23

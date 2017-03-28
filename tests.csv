@@ -1,0 +1,9 @@
+PROXIED,false
+TITOLO,test-zodiak
+SITES,www.violanews.com/statistiche/,www.violanews.com,www.violanews.com/altre-news/blog-guetta-un-ritorno-importante-ed-uno-scudetto-in-arrivo/,www.violanews.com/calciomercato/,www.violanews.com/giovanili/
+BROWSERS,browserstack
+KWS,?test-mpu-zodiak
+TESTS,monkeyCheckListposDX
+SEARCH,prova
+NVOLTE,1
+TARGET,adv-frame1

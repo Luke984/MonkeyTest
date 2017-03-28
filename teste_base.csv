@@ -1,0 +1,7 @@
+TITOLO,Titolo di un test automatico mai nato
+SITES,www.corriere.it
+BROWSERS,chrome
+KWS,test-formati-ron
+TESTS,monkeyCheckSitepage,monkeyCheckListpos,monkeyCheckListposDX,monkeyCountOAS
+SEARCH,prova
+NVOLTE,1

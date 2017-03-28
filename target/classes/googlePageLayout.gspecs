@@ -1,0 +1,8 @@
+= Main section =
+    @on mobile
+        menu:
+            height 300 px 
+
+    @on desktop
+        menu:
+            height 40 px 
